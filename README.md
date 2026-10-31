@@ -9,7 +9,7 @@ A fully DIY, wirelessly connected physical StreamDeck and audio mixer. This proj
 
 ## Features
 * **25-Key Button Matrix:** Full 5x5 grid for executing macros, changing OBS scenes, or playing soundboard files.
-* **4 Physical Sliders:** Analog volume control mapped to Windows apps or VoiceMeeter inputs/outputs (with built-in logarithmic audio tapering).
+* **Physical Slider(s):** Analog volume control mapped to Windows apps or VoiceMeeter inputs/outputs (with built-in logarithmic audio tapering).
 * **Wireless Bluetooth Connectivity:** Broadcasts serial data simultaneously over USB and Bluetooth (38400 baud) for a completely tether-free desk setup.
 * **Hardware Profile Switching:** Physical toggle switch instantly swaps between layout profiles without touching the software.
 * **Dedicated Z Button:** A standalone analog-read button for critical overrides or macros.
