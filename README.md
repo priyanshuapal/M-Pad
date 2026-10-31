@@ -1,4 +1,4 @@
-
+### M-Pad
 A fully DIY, wirelessly connected physical StreamDeck and audio mixer. This project uses an Arduino Uno and an HC-05 Bluetooth module to communicate with a custom Python/CustomTkinter desktop application, providing zero-latency control over OBS Studio, VoiceMeeter Banana, Windows system audio, and keyboard macros.
 
 ## Features
@@ -9,7 +9,7 @@ A fully DIY, wirelessly connected physical StreamDeck and audio mixer. This proj
 * **Dedicated Z Button:** A standalone analog-read button for critical overrides or macros.
 * **Auto-Reconnecting Python App:** A modern, dark-mode GUI that saves configurations to JSON and gracefully recovers from wireless dropouts.
 
-##Hardware Requirements
+## Hardware Requirements
 * 1x Arduino Uno (or Nano)
 * 26x Push Buttons (for the 5x5 matrix)
 * 4x 10k Linear Potentiometers (Sliders)
