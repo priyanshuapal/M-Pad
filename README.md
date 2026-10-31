@@ -2,7 +2,9 @@
 A fully DIY, wirelessly connected physical StreamDeck and audio mixer. This project uses an Arduino Uno and an HC-05 Bluetooth module to communicate with a custom Python/CustomTkinter desktop application, providing zero-latency control over OBS Studio, VoiceMeeter Banana, Windows system audio, and keyboard macros.
 
 ### Hardware v1.1 of device 
-<img width="3000" height="4000" alt="IMG_20261031_194811" src="https://github.com/user-attachments/assets/c2018e3b-153c-4ea9-8bf4-8f64c4600611" />
+
+<img width="2548" height="2548" alt="IMG_20261031_195119" src="https://github.com/user-attachments/assets/2464dcd2-82bc-47dd-89e6-d75a3561310b" />
+
 
 
 ## Features
