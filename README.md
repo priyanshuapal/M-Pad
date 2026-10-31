@@ -61,9 +61,10 @@ Open the app and select your Arduino's USB or Bluetooth COM port from the dropdo
 Enable the WebSocket server in OBS (Tools > WebSocket Server Settings). Enter your port (default 4455) and password into the app, then toggle "Enable OBS Connection".
 
 ### 3. Map Grid Buttons
-    Navigate to the "Button Matrix" tab. Select an action type from the dropdown for any letter (A-Y, plus Z).
+Navigate to the "Button Matrix" tab. Select an action type from the dropdown for any letter (A-Y, plus Z).
 
-    Keyboard & Media Macros: Select "Keyboard Shortcut", click the gear icon, and press your desired key combination. This natively supports Windows media keys (Play/Pause [playpause], Next Track [nexttrack], Previous Track [prevtrack], Mute).
+    Keyboard & Media Macros: Select "Keyboard Shortcut", click the gear icon, and press your desired key combination. 
+    This natively supports Windows media keys (Play/Pause [playpause], Next Track [nexttrack], Previous Track [prevtrack], Mute).
 
     OBS Actions: Select a scene/transition action and enter the exact Scene Name or Index number in the target box.
 
