@@ -29,7 +29,8 @@ A fully DIY, wirelessly connected physical StreamDeck and audio mixer. This proj
 | **Z Button** | `A1` | Reads via analog threshold (`< 950`) |
 | **Profile Switch**| `A5` | Internal pull-up, toggles High/Low |
 
-![Uploading Screenshot (98).png…]()
+<img width="928" height="939" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/1eea63c8-48e6-4c74-8285-d6a5b587dbba" />
+
 
 
 ## Software Installation
